@@ -3,6 +3,8 @@
 <!--
 **tmpanmitw/tmpanmitw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tmpanmitw">
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
